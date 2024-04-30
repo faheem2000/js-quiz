@@ -1,0 +1,73 @@
+
+{
+    question: 'What is a Variable in JavaScript?',
+    answers: [
+        { text: 'A section of the webpage', correct: false },
+        { text: 'A container for storing data values', correct: true },
+        { text: 'A type of JavaScript function', correct: false },
+        { text: 'An operation in mathematics', correct: false }
+    ]
+},
+{
+    question: 'What is a Variable in JavaScript?',
+    answers: [
+        { text: 'A section of the webpage', correct: false },
+        { text: 'A container for storing data values', correct: true },
+        { text: 'A type of JavaScript function', correct: false },
+        { text: 'An operation in mathematics', correct: false }
+    ]
+},
+{
+    question: 'What does CSS stand for?',
+    answers: [
+        { text: 'Cascading Style Sheets', correct: true },
+        { text: 'Computer Style Sheets', correct: false },
+        { text: 'Colorful Style Sheets', correct: false },
+        { text: 'Creative Style Sheets', correct: false }
+    ]
+},
+{
+    question: 'What does HTML stand for?',
+    answers: [
+        { text: 'Hyper Text Markup Language', correct: true },
+        { text: 'Hyperlinks and Text Markup Language', correct: false },
+        { text: 'Home Tool Markup Language', correct: false },
+        { text: 'Hyperlinks and Text Management Language', correct: false }
+    ]
+},
+{
+    question: 'What is the capital of France?',
+    answers: [
+        { text: 'London', correct: false },
+        { text: 'Berlin', correct: false },
+        { text: 'Paris', correct: true },
+        { text: 'Madrid', correct: false }
+    ]
+},
+{
+    question: 'Who wrote "To Kill a Mockingbird"?',
+    answers: [
+        { text: 'J.K. Rowling', correct: false },
+        { text: 'Harper Lee', correct: true },
+        { text: 'Stephen King', correct: false },
+        { text: 'Mark Twain', correct: false }
+    ]
+},
+{
+    question: 'Which planet is known as the Red Planet?',
+    answers: [
+        { text: 'Venus', correct: false },
+        { text: 'Jupiter', correct: false },
+        { text: 'Mars', correct: true },
+        { text: 'Saturn', correct: false }
+    ]
+},
+{
+    question: 'What is the tallest mammal?',
+    answers: [
+        { text: 'Elephant', correct: false },
+        { text: 'Giraffe', correct: true },
+        { text: 'Horse', correct: false },
+        { text: 'Whale', correct: false }
+    ]
+}
